@@ -1,0 +1,6 @@
+make.exe --dry-run --always-make --keep-going --print-directory
+make.exe: Entering directory 'c:/Users/DesSlayer/Documents/�Ʀ��޿�]�p���/HW3(0417)vote'
+iverilog -o temp.vvp voter_if.v Testbench.v
+vvp temp.vvp
+make.exe: Leaving directory 'c:/Users/DesSlayer/Documents/�Ʀ��޿�]�p���/HW3(0417)vote'
+ 
